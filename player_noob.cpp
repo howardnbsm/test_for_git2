@@ -6,6 +6,8 @@
 #include <ctime>
 #include <cstring>
 
+
+//jizzjizzjizzjizz
 using namespace std;
 struct Point {
     int x, y;
